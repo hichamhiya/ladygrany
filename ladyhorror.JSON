@@ -1,0 +1,37 @@
+{
+	"version": "said v1.1",
+
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+"admobReward": "ca-app-pub-3940256099942544/",
+
+
+
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
+"applovinbanner": "77c64f9e99e23763",
+"applovininter": "11414c0241b0e82a",
+"applovinreward": "b4c66b4a4984eaf1",
+
+
+"onesignalid": "0000",
+
+
+
+"unityid": "4821677",
+"unitybanner": "Banner_Android",
+"unityinter": "Interstitial_Android",
+"unityreward": "Rewarded_Android",
+
+"adsSwitch explication ": "1: admob , 2:applovin 3:auto",
+"adsSwitch": "2"
+
+
+
+
+
+
+
+
+
+
+}
