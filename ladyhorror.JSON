@@ -1,5 +1,5 @@
 {
-	"version": "said v1.2",
+	"version": "lady 1.3",
 
 "admobbannerId": "ca-app-pub-3940256099942544/6300978111",
 "admobInterId": "ca-app-pub-3940256099942544/1033173712",
@@ -17,13 +17,13 @@
 
 
 
-"unityid": "4821677",
+"unityid": "4840857",
 "unitybanner": "Banner_Android",
 "unityinter": "Interstitial_Android",
 "unityreward": "Rewarded_Android",
 
 "adsSwitch explication ": "1: admob , 2: applovin 3: auto",
-"adsSwitch": "1"
+"adsSwitch": "0"
 
 
 
