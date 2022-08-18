@@ -1,5 +1,5 @@
 {
-	"version": "lady 1.4",
+	"version": "lady 1.5",
 
 "admobbannerId": "ca-app-pub-4410161984376992/6675272068",
 "admobInterId": "ca-app-pub-4410161984376992/2544455369/",
@@ -23,7 +23,7 @@
 "unityreward": "Rewarded_Android",
 
 "adsSwitch explication ": "1: admob , 2: applovin 3: auto",
-"adsSwitch": "3"
+"adsSwitch": "2"
 
 
 
