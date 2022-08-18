@@ -8,9 +8,9 @@
 
 
 "applovinsdk": "5JduEo4Hxp-CyPIo6GfxT4Hk7mv2Qs-5yyx5rLPtTmV6IJwpFaGJ4DUh1Q7L-6BhqSOrBl1GBH7bmCb4xuzJPE",
-"applovinbanner": "d8a33edd33776a5a",
-"applovininter": "f15e218a890a3661",
-"applovinreward": "b4c66b4a4984eaf1",
+"applovinbanner": "d8a33edd33776a5a0000",
+"applovininter": "f15e218a890a3661000",
+"applovinreward": "b4c66b4a4984eaf1000",
 
 
 "onesignalid": "e20ce271-b8fe-4cee-ae70-e8281b5c92a9",
@@ -23,7 +23,7 @@
 "unityreward": "Rewarded_Android",
 
 "adsSwitch explication ": "1: admob , 2: applovin 3: auto",
-"adsSwitch": "2"
+"adsSwitch": "3"
 
 
 
